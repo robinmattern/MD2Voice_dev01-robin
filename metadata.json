@@ -1,0 +1,5 @@
+{
+  "name": "Dialogue To Speech Studio",
+  "description": "Upload markdown conversations, map speakers to custom voices, and generate high-quality multi-speaker audio using Gemini's advanced TTS technology.",
+  "requestFramePermissions": []
+}
